@@ -2,8 +2,8 @@
 
 | 주차  | 문제 링크 |
 | :---: | :-------- |
-| 1주차 |           |
-| 2주차 |           |
+| 1주차 | [Baekjoon-10773:  제로](https://www.acmicpc.net/problem/10773)<br>[Baekjoon-17478:  재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)|
+| 2주차 | [Baekjoon-01018:  체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)|
 | 3주차 |           |
 | 4주차 |           |
 | 5주차 |           |
