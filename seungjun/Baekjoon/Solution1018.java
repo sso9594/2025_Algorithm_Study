@@ -29,6 +29,7 @@ public class Main {
                 }
             }
             cnt = Math.min(cnt, cur_cnt);
+            
         }
     }
 
@@ -54,4 +55,5 @@ public class Main {
         }
         System.out.println(min_value);
     }
+    
 }
