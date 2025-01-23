@@ -14,37 +14,32 @@ public class Q2343 {
 		
 		for(int i =0; i<N; i++) {
 			arr[i] = sc.nextInt();
+			left = Math.max(left, arr[i]);
 			right += arr[i];
 		}
 		
 		while(left < right) {
 			
 			int mid = (left + right) / 2;
-			int num = 0;
-			int sum = 0;
-		//	System.out.println("mid " + mid);
+			int cnt = 0;							// 조각 수
+			int total = arr[0];
+			//System.out.print("mid " + mid + " :");
 			
-			// 전체 배열을 돌며 합산
 			for(int i =0; i<N-1; i++) {
-				if(sum + arr[i+1] >= mid) {
-					num++;
-					sum = arr[i+1];
-			//		System.out.print(arr[i] + " ");
+				if(total + arr[i+1] > mid) {		//잘리는 위치
+					cnt++;
+					total = arr[i+1];
+				//	System.out.print(arr[i] + " ");
+				}else {
+					total += arr[i+1];
 				}
-				else sum += arr[i+1 ];
-			}
-			if(sum > mid) {
-				//System.out.println(arr[N-1]);
-				num++;
 			}
 			
-			if(num > M) { // 타겟넘버가 너무 작은 경우
-			//	System.out.println("mid가 작음");
-			//	System.out.println("tar : " + mid + " num : " + num);
+			//System.out.println();
+			
+			if(cnt + 1 > M) { 	// 너무 많은 블루레이 개수가 나옴 --> 타겟넘버가 너무 작은 경우
 				left = mid + 1;
-			}else { 	//타겟넘버가 큰 경우
-			//	System.out.println("mid가 큼");
-			//	System.out.println("tar : " + mid + " num : " + num);
+			}else { 			//타겟넘버가 큰 경우
 				right = mid;
 			}
 		}
