@@ -15,8 +15,8 @@ public class Sol9372 {
             for(int fn = 0; fn < f; fn++){
                 int n = sc.nextInt()-1;
                 int m = sc.nextInt()-1;
-                am[n][m] = 1;
-                am[m][n] = 1;
+                am[n][m] = 1; 
+                am[m][n] = 1; 
             }
 
             boolean[] visited = new boolean[c];
@@ -29,7 +29,7 @@ public class Sol9372 {
     }
 
     static int dfs(int[][] map, int cp, boolean[] visited, int count) {
-        visited[cp] = true; 
+        visited[cp] = true;
 
         for (int next = 0; next < map[cp].length; next++) {
             if (map[cp][next] == 1 && !visited[next]) {
@@ -37,7 +37,6 @@ public class Sol9372 {
                 count = dfs(map, next, visited, count);
             }
         }
-
         return count; 
     }
 }
