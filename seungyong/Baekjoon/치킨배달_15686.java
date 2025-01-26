@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class 치킨배달_115686 {
+public class 치킨배달_15686 {
 
     static int M;
     static int N;
