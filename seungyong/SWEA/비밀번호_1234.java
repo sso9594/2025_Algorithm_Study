@@ -2,11 +2,11 @@ package seungyong.SWEA;
 
 import java.util.*;
 
-public class Solution {
+public class 비밀번호_1234 {
     public static void main(String args[]) throws Exception {
 		Scanner sc = new Scanner(System.in);
 		int T;
-		T=1;
+		T=10;
         
 		for(int test_case = 1; test_case <= T; test_case++) {
             int N = sc.nextInt();
