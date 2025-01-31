@@ -8,3 +8,12 @@
 2025.01.22(수) - [Baekjoon-2667]: 단지번호붙이기(S1) - https://www.acmicpc.net/problem/2667  
 2025.01.23(목) - [Baekjoon-2512]: 예산(S2) - https://www.acmicpc.net/problem/2512  
 2025.01.24(금) - [Baekjoon-14888]: 연산자 끼워넣기(S1) - https://www.acmicpc.net/problem/14888  
+2025.01.30(목) - [Baekjoon-1592]: 영식이와 친구들(B2) - https://www.acmicpc.net/problem/1592  
+2025.01.30(목) - [Baekjoon-2991]: 사나운 개(B3) - https://www.acmicpc.net/problem/2991  
+2025.01.30(목) - [Baekjoon-8320]: 직사각형을 만드는 방법(B2) - https://www.acmicpc.net/problem/8320  
+2025.01.30(목) - [Baekjoon-2999]: 비밀 이메일(B1) - https://www.acmicpc.net/problem/2999  
+2025.01.30(목) - [Baekjoon-17413]: 단어 뒤집기 2(S3) - https://www.acmicpc.net/problem/17413  
+2025.01.30(목) - [Baekjoon-15649]: N과 M (1)(S3) - https://www.acmicpc.net/problem/15649  
+2025.01.30(목) - [Baekjoon-15650]: N과 M (2)(S3) - https://www.acmicpc.net/problem/15650  
+2025.01.30(목) - [Baekjoon-15651]: N과 M (3)(S3) - https://www.acmicpc.net/problem/15651  
+2025.01.30(목) - [Baekjoon-15652]: N과 M (4)(S3) - https://www.acmicpc.net/problem/15652  
