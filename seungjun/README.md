@@ -21,3 +21,4 @@
 |       | 01/30 |BOJ|  S3  |[15650. N과 M (2)](https://www.acmicpc.net/problem/15650)|명절 스페셜|
 | 3주차 | 01/31 |BOJ|  S2  |[04963. 섬의 개수](https://www.acmicpc.net/problem/4963)||
 |       | 02/01 |BOJ|  S4  |[01244. 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)|IM문제|
+|       | 02/03 |SWEA|  D4  |[07699. 수지의 수지 맞는 여행](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWqUzj0arpkDFARG)|명절 스페셜|
