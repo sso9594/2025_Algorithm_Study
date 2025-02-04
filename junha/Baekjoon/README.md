@@ -19,3 +19,4 @@
 2025.01.30(목) - [Baekjoon-15652]: N과 M (4)(S3) - https://www.acmicpc.net/problem/15652  
 2025.01.31(금) - [Baekjoon-1004]: 어린 왕자(S3) - https://www.acmicpc.net/problem/1004  
 2025.02.03(월) - [Baekjoon-2468]: 안전 영역(S3) - https://www.acmicpc.net/problem/2468  
+2025.02.04(화) - [Baekjoon-17070]: 파이프 옮기기 1(G5) - https://www.acmicpc.net/problem/17070  
