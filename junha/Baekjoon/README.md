@@ -22,3 +22,5 @@
 2025.02.04(화) - [Baekjoon-17070]: 파이프 옮기기 1(G5) - https://www.acmicpc.net/problem/17070  
 2025.02.05(수) - [Baekjoon-2615]: 오목(S1) - https://www.acmicpc.net/problem/2615  
 2025.02.06(목) - [Baekjoon-1913]: 달팽이(S3) - https://www.acmicpc.net/problem/1913
+2025.02.07(금) - [Baekjoon-17281]: ⚾(G4) - https://www.acmicpc.net/problem/17281
+
