@@ -25,3 +25,4 @@
 |       | 02/04 |BOJ|  G5  |[07569. 토마토](https://www.acmicpc.net/problem/7569)|명절 스페셜|
 |       | 02/05 |BOJ|  G5  |[17070. 파이프 옮기기 1](https://www.acmicpc.net/problem/17070)||
 |       | 02/06 |BOJ|  S1  |[1149. RGB거리](https://www.acmicpc.net/problem/1149)||
+|       | 02/07 |BOJ|  G4  |[14502. 연구소](https://www.acmicpc.net/problem/14502)||
