@@ -23,12 +23,19 @@ public class Sol16926 {
         int startX = 0;
         int startY = 0;
 
-        for(int i = 0; i < (int) n/2; i++) {
+        for(int i = 0; i < Math.min(n,m)/2; i++) {
             for(int j = 0; j < r; j++) {
                 int cx = startX;
                 int cy = startY;
                 int temp;
                 int cValue = map[cx][cy];
+
+                boolean firstCheck = false;
+                int count = 0;
+                if(firstCheck){
+                    r = r%count;
+                }
+                
                 
                 while(true) {
                     int nx = cx;
@@ -86,7 +93,11 @@ public class Sol16926 {
                     }
                     
                     if(nx == startX && ny == startY) {
+                        if(firstCheck == false) firstCheck = true;
                         break;
+                    }
+                    if(firstCheck == false){
+                        count++;
                     }
                 }
             }
