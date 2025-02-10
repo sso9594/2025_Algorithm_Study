@@ -23,4 +23,6 @@
 2025.02.05(수) - [Baekjoon-2615]: 오목(S1) - https://www.acmicpc.net/problem/2615  
 2025.02.06(목) - [Baekjoon-1913]: 달팽이(S3) - https://www.acmicpc.net/problem/1913
 2025.02.07(금) - [Baekjoon-17281]: ⚾(G4) - https://www.acmicpc.net/problem/17281
+2025.02.10(월) - [Baekjoon-16926]: 배열 돌리기 1(G5) - https://www.acmicpc.net/problem/16926
+2025.02.10(월) - [Baekjoon-16927]: 배열 돌리기 2(G5) - https://www.acmicpc.net/problem/16927
 
