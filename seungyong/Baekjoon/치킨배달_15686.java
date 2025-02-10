@@ -1,91 +1,70 @@
 import java.util.*;
+import java.util.stream.IntStream;
 import java.io.*;
 
 public class 치킨배달_15686 {
 
-    static int M;
     static int N;
+    static int M;
     static int[][] arr;
-    static ArrayList<boolean[][]> chicken;
+    static ArrayList<int[]> set;
+    static int min;
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        
         N = sc.nextInt();
         M = sc.nextInt();
 
         arr = new int[N][N];
-        chicken = new ArrayList<>();
-        int result = Integer.MAX_VALUE;
-
-        for(int i=0; i<N; i++){
-            for(int j=0; j<N; j++){
-                arr[i][j] = sc.nextInt();
-            }
-        }
-
-        findChicken(new boolean[N][N], 0);
-
-        for(boolean[][] chickenArr : chicken){
-            int sum = 0;
-            for (int i = 0; i < N; i++) {
-                for (int j = 0; j < N; j++) {
-                    int min = Integer.MAX_VALUE;
-                    if(arr[i][j]==1){
-                        for(int x=0; x < N; x++){
-                            for (int y = 0; y < N; y++) {
-                                if(arr[x][y] == 2 && chickenArr[x][y]){
-                                    int distance = Math.abs(x-i) + Math.abs(y-j);
-                                    min = Math.min(distance, min);
-                                }
-                            }
-                        }
-                        sum += min;
-                    }
-                }
-            }
-            result = Math.min(sum, result);
-        }
-
-        System.out.println(result);
-
-    }
-
-    static int comb(int i, int j, boolean[][] visited, int count){
-        int min = Integer.MAX_VALUE;
-            if(arr[i][j]==1){
-                for(int x=0; x < N; x++){
-                    for (int y = 0; y < N; y++) {
-                        if(arr[x][y] == 2 && visited[x][y]){
-                            int distance = Math.abs(x-i) + Math.abs(y-j);
-                            min = Math.min(distance, min);
-                        }
-                    }
-                }
-                return min  == Integer.MAX_VALUE ? 0 : min;
-            }
-        return 0;        
-    }
-
-    static void findChicken(boolean[][] visited, int count){
-
-        if(count == M){
-            boolean[][] copy = new boolean[N][N];
-            for (int i = 0; i < N; i++) {
-                System.arraycopy(visited[i], 0, copy[i], 0, N);
-            }
-            chicken.add(copy);  
-        }
+        min = Integer.MAX_VALUE;
+        set = new ArrayList<>();
 
         for (int i = 0; i < N; i++) {
             for (int j = 0; j < N; j++) {
-                if(arr[i][j] == 2 && !visited[i][j]){
-                    visited[i][j] = true;
-                    findChicken(visited, count+1);
-                    visited[i][j] = false;
+                arr[i][j] = sc.nextInt();
+                if(arr[i][j] == 2){
+                    set.add(new int[]{i, j});
                 }
             }
         }
+        
+        // 치킨집의 좌표 2개를 M개 저장할 배열 초기화화
+        comb(0, 0, new int[M][2]);
+
+        System.out.println(min);
     }
 
+    static void comb(int depth, int index, int[][] sel){
+        if(depth == M){
+            // 거리 최소값 구하는 로직
+            int mapSum = 0; // 도시의 치킨거리
+            for (int i = 0; i < N; i++) {
+                for (int j = 0; j < N; j++) {
+                    // 1일 경우 해당 i,j 좌표에서 sel과의 거리 최소값을 더해 저장
+                    if(arr[i][j]==1){
+                        int disMin = Integer.MAX_VALUE;
+                        for (int[] chicken : sel) {
+                            int sum = 0;
+                            sum += Math.abs(chicken[0]-i);
+                            sum += Math.abs(chicken[1]-j);
+                            disMin = Math.min(sum, disMin);
+                        }
+                        mapSum += disMin;
+                    }
+                }
+            }
+
+            min = Math.min(min, mapSum);
+            return;
+        }
+
+        if (index >= set.size()) {
+            return;
+        }
+
+        // 조합을 구하는 로직
+        sel[depth] = set.get(index);
+        comb(depth+1, index+1, sel);
+        comb(depth, index+1, sel);
+    }
 }

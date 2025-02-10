@@ -47,30 +47,33 @@ public class Q16927 {
 	private static void solve(int idx, int len) {
 		// TODO Auto-generated method stub
 		for(int i=0; i< R % len; i++) {
-			
 			int x1 = idx;
 			int y1 = idx;
-			int k = 0;
-			int tmp = arr[y1][x1];
 			
-			while( k < 4 ) { 
+			int k = 0;
+			int tmp = arr[idx][idx];
+			
+			while( k < 4 ) {
 				int nX = x1 + dX[k];
 				int nY = y1 + dY[k];
 
-				//System.out.println(nX + " " + nY);
-				if(nX < idx || nX >= M - idx || nY < idx || nY >= N-idx) { 
+				if(nX < idx || nX >= M - idx || nY < idx || nY >= N - idx) { 
 					k++;
 					continue; 
 				}
 
+				//arr[x1][y1] = arr[nX][nY];
+				//다음 이동 칸의 값을 현재 칸으로
 				arr[y1][x1] = arr[nY][nX];
+				
+				//x1, y1 값을 다음 값으로 변동
 				x1 = nX;
 				y1 = nY;
+				
 			}
+			//복제되어 있는 값(idx+1, idx)을 정상화
 			arr[idx+1][idx] = tmp;
-			
 		}
-
 		//System.out.println(Arrays.deepToString(arr));
 	}
 }
