@@ -27,4 +27,4 @@
 |       | 02/06 |BOJ|  S1  |[01149. RGB거리](https://www.acmicpc.net/problem/1149)||
 | 4주차  | 02/07 |BOJ|  G4  |[14502. 연구소](https://www.acmicpc.net/problem/14502)||
 |       | 02/10 |SWEA|  D4  |[04193. 수영대회 결승전](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AWKaG6_6AGQDFARV)||
-
+|       | 02/11 |BOJ|  G5  |[16926. 배열 돌리기 1](https://www.acmicpc.net/problem/16926)||
