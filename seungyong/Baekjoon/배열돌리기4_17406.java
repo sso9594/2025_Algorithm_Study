@@ -62,33 +62,30 @@ public class 배열돌리기4_17406 {
     }
 
     static int[][] rotateArr(int[][] cpy, int r, int c, int s) {
-        int startX = r - s - 1;
-        int startY = c - s - 1;
-        int endX = r + s - 1;
-        int endY = c + s - 1;
+        int startX = r-s-1;
+        int startY = c-s-1;
+        int endX = r+s-1;
+        int endY = c+s-1;
 
         for (int k = 0; k < Math.min(endX-startX+1,endY-startY+1)/2; k++) {
-            int temp = cpy[startX + k][startY + k];  
+            int temp = cpy[startX+k][startY+k];  
             // v
-            for (int x = startX + k; x < endX - k; x++) {
-                cpy[x][startY + k] = cpy[x + 1][startY + k];
+            for (int x = startX+k; x < endX-k; x++) {
+                cpy[x][startY+k] = cpy[x+1][startY+k];
             }
-
             // <-
-            for (int y = startY + k; y < endY - k; y++) {
-                cpy[endX - k][y] = cpy[endX - k][y + 1];
+            for (int y = startY+k; y < endY-k; y++) {
+                cpy[endX-k][y] = cpy[endX-k][y+1];
             }
-
             // ^
-            for (int x = endX - k; x > startX + k; x--) {
-                cpy[x][endY - k] = cpy[x - 1][endY - k];
+            for (int x = endX-k; x > startX+k; x--) {
+                cpy[x][endY-k] = cpy[x-1][endY-k];
             }
-
             // ->
-            for (int y = endY - k; y > startY + k + 1; y--) {
-                cpy[startX + k][y] = cpy[startX + k][y - 1];
+            for (int y = endY-k; y > startY+k+1; y--) {
+                cpy[startX+k][y] = cpy[startX+k][y-1];
             }
-            cpy[startX + k][startY + k + 1] = temp;
+            cpy[startX+k][startY+k+1] = temp;
         }
 
         return cpy;
