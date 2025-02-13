@@ -30,3 +30,4 @@
 |       | 02/11 |BOJ|  G5  |[16926. 배열 돌리기 1](https://www.acmicpc.net/problem/16926)||
 |       | 02/12 |BOJ|  S1  |[02667. 단지번호붙이기](https://www.acmicpc.net/problem/2667)||
 |       | 02/13 |BOJ|  G4  |[17406. 배열 돌리기 4](https://www.acmicpc.net/problem/17406)||
+|       | 02/13 |BOJ|  S1  |[01991. 트리 순회](https://www.acmicpc.net/problem/1991)||
