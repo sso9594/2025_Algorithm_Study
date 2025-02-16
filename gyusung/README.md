@@ -31,3 +31,4 @@
 |     | 02.13| (https://www.acmicpc.net/problem/16637)                                                                | 괄호 추가하기                   |
 |     | 02.14 | (https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AYFofW8qpXYDFAR4)  |나무 높이   |
 |     | 02.15 | (https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf)          | 프로세서 연결하기           |
+|     | 02.16 | (https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq)          | 등산로 조성           |
