@@ -24,4 +24,10 @@
 |       | 02/03 |SWEA|  D4  |[07699. 수지의 수지 맞는 여행](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWqUzj0arpkDFARG)|명절 스페셜|
 |       | 02/04 |BOJ|  G5  |[07569. 토마토](https://www.acmicpc.net/problem/7569)|명절 스페셜|
 |       | 02/05 |BOJ|  G5  |[17070. 파이프 옮기기 1](https://www.acmicpc.net/problem/17070)||
-|       | 02/06 |BOJ|  S1  |[1149. RGB거리](https://www.acmicpc.net/problem/1149)||
+|       | 02/06 |BOJ|  S1  |[01149. RGB거리](https://www.acmicpc.net/problem/1149)||
+| 4주차  | 02/07 |BOJ|  G4  |[14502. 연구소](https://www.acmicpc.net/problem/14502)||
+|       | 02/10 |SWEA|  D4  |[04193. 수영대회 결승전](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AWKaG6_6AGQDFARV)||
+|       | 02/11 |BOJ|  G5  |[16926. 배열 돌리기 1](https://www.acmicpc.net/problem/16926)||
+|       | 02/12 |BOJ|  S1  |[02667. 단지번호붙이기](https://www.acmicpc.net/problem/2667)||
+|       | 02/13 |BOJ|  G4  |[17406. 배열 돌리기 4](https://www.acmicpc.net/problem/17406)||
+|       | 02/13 |BOJ|  S1  |[01991. 트리 순회](https://www.acmicpc.net/problem/1991)||

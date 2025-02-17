@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Sol17070 {
     static int total = 0;
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -22,7 +22,7 @@ public class Main {
         System.out.println(total);
 
 }
-static void recursive(int[][] map, int[] position,int d, boolean[][] v, int count){
+static void recursive(int[][] map, int[] position, int d ,boolean[][] v, int count){
     if(position[0] == map[0].length-1 && position[1] == map[0].length-1){
         total++;
         return;
