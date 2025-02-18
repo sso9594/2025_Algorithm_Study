@@ -38,7 +38,7 @@
 |  | 2025.02.17(월) | [Baekjoon-14889](https://www.acmicpc.net/problem/14889)                                                             | 스타트와 링크(S1)      | 벌금 / 2025.02.18(화) |
 |  | 2025.02.18(화) | [SWEA-5643](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXQsLWKd5cDFAUo)          | 키 순서(D4)         | A형                 |
 |  | 2025.02.18(화) | [Baekjoon-2458](https://www.acmicpc.net/problem/2458)                                                               | 키 순서(G4)         | A형                 |
-|  | 2025.02.18(화) | [Baekjoon-14501](https://www.acmicpc.net/problem/14501)                                                               | 퇴사(S3)         | A형                 |
+|  | 2025.02.18(화) | [Baekjoon-14501](https://www.acmicpc.net/problem/14501)                                                               | 퇴사(S3)         |              |
 
 * 당일 06:00 ~ 익일 06:00까지 당일로 침 
   * ex) 2025.01.21(화) 04:00에 풀었으면, 2025.01.20(월)로 날짜 작성
