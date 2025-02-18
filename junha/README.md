@@ -35,6 +35,7 @@
 |     | 2025.02.13(목) | [Baekjoon-17406](https://www.acmicpc.net/problem/17406)                                                             | 배열 돌리기 4(G4)     | 공통 문제              |
 |     | 2025.02.14(금) | [SWEA-14510](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AYFofW8qpXYDFAR4) | 나무 높이(D2)        | A형                 |
 | 5주차 | 2025.02.17(월) | [Baekjoon-17135](https://www.acmicpc.net/problem/17135)                                                             | 캐슬 디펜스(G3)       | A형 / 공통 문제         |
+|  | 2025.02.17(월) | [Baekjoon-14889](https://www.acmicpc.net/problem/14889)                                                             | 스타트와 링크(S1)      | 벌금 / 2025.02.18(화) |
 |  | 2025.02.18(화) | [SWEA-5643](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXQsLWKd5cDFAUo)          | 키 순서(D4)         | A형                 |
 |  | 2025.02.18(화) | [Baekjoon-2458](https://www.acmicpc.net/problem/2458)                                                               | 키 순서(G4)         | A형                 |
 
