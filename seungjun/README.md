@@ -34,3 +34,4 @@
 | 5주차  | 02/15 |SWEA|  D2  |[14510. 나무 높이](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AYFofW8qpXYDFAR4)||
 |       | 02/17 |SWEA|  D?  |[01767. 프로세서 연결하기](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AYFofW8qpXYDFAR4)||
 |       | 02/18 |BOJ|  S3  |[02579. 계단 오르기](https://www.acmicpc.net/problem/2579)||
+|       | 02/19 |BOJ|  S2  |[11724. 연결 요소의 개수](https://www.acmicpc.net/problem/11724)||
