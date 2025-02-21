@@ -33,5 +33,8 @@
 |     | 02.15 | (https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf)          | 프로세서 연결하기           |
 |     | 02.16 | (https://www.acmicpc.net/problem/17135)                                                                  | 캐슬 디펜스           |
 |     | 02.17 | (https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq)          | 등산로 조성           |
-|     | 02.18 | (https://www.acmicpc.net/problem/2458)           | 키 순서           |
+|     | 02.18 | (https://www.acmicpc.net/problem/2458)                                                                   | 키 순서           |
+|     | 02.19 | (https://www.acmicpc.net/problem/1806)                                                                   | 부분합           |
+|     | 02.20 | ([https://www.acmicpc.net/problem/2458](https://school.programmers.co.kr/learn/courses/30/lessons/43164))  | 여행경로           |
+|     | 02.21 | (https://www.acmicpc.net/problem/17472)                                                                   | 다리 만들기 2           |
 
