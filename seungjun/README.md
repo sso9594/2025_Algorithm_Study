@@ -35,3 +35,7 @@
 |       | 02/17 |SWEA|  D?  |[01767. 프로세서 연결하기](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AYFofW8qpXYDFAR4)||
 |       | 02/18 |BOJ|  S3  |[02579. 계단 오르기](https://www.acmicpc.net/problem/2579)||
 |       | 02/19 |BOJ|  S2  |[11724. 연결 요소의 개수](https://www.acmicpc.net/problem/11724)||
+|       | 02/20 |BOJ|  S1  |[02583. 영역 구하기](https://www.acmicpc.net/problem/2583)||
+|       | 02/20 |BOJ|  G3  |[17135. 캐슬 디펜스](https://www.acmicpc.net/problem/17135)|기한 초과|
+| 6주차  | 02/21 |BOJ|  G5  |[15686. 치킨 배달](https://www.acmicpc.net/problem/15686)||
+|       | 02/21 |BOJ|  G4  |[16234. 인구 이동](https://www.acmicpc.net/problem/16234)||
