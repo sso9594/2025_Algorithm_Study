@@ -38,3 +38,4 @@
 |       | 02/20 |BOJ|  S1  |[02583. 영역 구하기](https://www.acmicpc.net/problem/2583)||
 |       | 02/20 |BOJ|  G3  |[17135. 캐슬 디펜스](https://www.acmicpc.net/problem/17135)|기한 초과|
 | 6주차  | 02/21 |BOJ|  G5  |[15686. 치킨 배달](https://www.acmicpc.net/problem/15686)||
+|       | 02/21 |BOJ|  G4  |[16234. 인구 이동](https://www.acmicpc.net/problem/16234)||
