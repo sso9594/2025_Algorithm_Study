@@ -35,6 +35,7 @@
 2025.02.18(화) - [Baekjoon-14501]: 퇴사(S3) - https://www.acmicpc.net/problem/14501       
 2025.02.21(금) - [Baekjoon-1446]: 지름길(S1) - https://www.acmicpc.net/problem/1446    
 2025.02.23(일) - [Baekjoon-16234]: 인구 이동(G4) - https://www.acmicpc.net/problem/16234     
+2025.02.24(월) - [Baekjoon-1309]: 동물원(S1) - https://www.acmicpc.net/problem/1309     
 
 
 
