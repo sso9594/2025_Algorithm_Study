@@ -37,4 +37,5 @@
 |     | 02.19 | (https://www.acmicpc.net/problem/1806)                                                                   | 부분합           |
 |     | 02.20 | ([https://www.acmicpc.net/problem/2458](https://school.programmers.co.kr/learn/courses/30/lessons/43164))  | 여행경로           |
 |     | 02.21 | (https://www.acmicpc.net/problem/17472)                                                                   | 다리 만들기 2           |
+|     | 02.24 | (https://www.acmicpc.net/problem/9935)                                                                   | 문자열 폭탄           |
 
