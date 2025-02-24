@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Queue;
 import java.util.Scanner;
 
-class Main{
+class Sol17471{
     static class City{
         int idx;
         City(int idx){
