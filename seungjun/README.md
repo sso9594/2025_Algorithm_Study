@@ -40,3 +40,4 @@
 | 6주차  | 02/21 |BOJ|  G5  |[15686. 치킨 배달](https://www.acmicpc.net/problem/15686)||
 |       | 02/21 |BOJ|  G4  |[16234. 인구 이동](https://www.acmicpc.net/problem/16234)||
 |       | 02/24 |BOJ|  S1  |[01389. 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)||
+|       | 02/25 |BOJ|  G5  |[20055. 컨베이어벨트 위의 로봇](https://www.acmicpc.net/problem/20055)||
