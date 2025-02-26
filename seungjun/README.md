@@ -41,3 +41,4 @@
 |       | 02/21 |BOJ|  G4  |[16234. 인구 이동](https://www.acmicpc.net/problem/16234)||
 |       | 02/24 |BOJ|  S1  |[01389. 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)||
 |       | 02/25 |BOJ|  G5  |[20055. 컨베이어벨트 위의 로봇](https://www.acmicpc.net/problem/20055)||
+|       | 02/26 |BOJ|  S3  |[01448. 삼각형 만들기](https://www.acmicpc.net/problem/1448)||

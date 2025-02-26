@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+class Main {
     static int N, K;
     static int[][] belt;
 
