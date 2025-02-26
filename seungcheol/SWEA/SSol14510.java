@@ -1,8 +1,7 @@
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class Solution {
+public class SSol14510 {
     public static void main(String[] args) throws FileNotFoundException {
         Scanner sc = new Scanner(System.in);
 
@@ -15,7 +14,7 @@ public class Solution {
                 trees[i] = sc.nextInt();
             }
             
-            // maxTree값 구하기
+            // maxTree값 구하기 
             int maxTree = Integer.MIN_VALUE;
             for (int i = 0; i < n; i++){
                 if(trees[i] > maxTree){
