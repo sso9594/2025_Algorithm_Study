@@ -50,7 +50,8 @@
 |     | 2025.02.23(일)    | [Baekjoon-16234](https://www.acmicpc.net/problem/16234)                                                             | 인구 이동(G4)           | 공통 문제              |
 | 6주차 | 2025.02.24(월)✅   | [Baekjoon-1309](https://www.acmicpc.net/problem/1309)                                                               | 동물원(S1)             |                    |
 |     | 2025.02.26(수)✅   | [Baekjoon-11000](https://www.acmicpc.net/problem/11000)                                                             | 강의실 배정(G5)          |                    |
-|     | 2025.02.26(수)    | [SWEA-1486](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV2b7Yf6ABcBBASw)                                                                  | 장훈이의 높은 선반(D4)      | 과제                 |
+|     | 2025.02.26(수)    | [SWEA-1486](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV2b7Yf6ABcBBASw)          | 장훈이의 높은 선반(D4)      | 과제                 |
+|     | 2025.02.27(목)✅   | [SWEA-1861](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LtJYKDzsDFAXc)          | 정사각형 방(D4)          | 과제                 |
 
 
 * 당일 06:00 ~ 익일 06:00까지 당일로 침 
