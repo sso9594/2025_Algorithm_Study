@@ -41,7 +41,7 @@ class Main{
     
                     //연결되어 있는 국경 확인
                     List<Integer> conn = new ArrayList<>(); // 연결된 국가의 인구수
-                    List<Integer[]> unions = new ArrayList<>(); // 연합 국가 리스트트
+                    List<Integer[]> unions = new ArrayList<>(); // 연합 국가 리스트
     
                     //연합 국가 찾기기
                     while(!queue.isEmpty()){
@@ -77,7 +77,7 @@ class Main{
                 }
                 }
             }
-            //한번이라도 인구이동하면 day 증가가
+            //한번이라도 인구이동하면 day 증가
             if(check){
                 day++;
                 visited = new boolean[n][n];
