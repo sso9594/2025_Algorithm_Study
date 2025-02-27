@@ -42,3 +42,4 @@
 |       | 02/24 |BOJ|  S1  |[01389. 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)||
 |       | 02/25 |BOJ|  G5  |[20055. 컨베이어벨트 위의 로봇](https://www.acmicpc.net/problem/20055)||
 |       | 02/26 |BOJ|  S3  |[01448. 삼각형 만들기](https://www.acmicpc.net/problem/1448)||
+|       | 02/27 |BOJ|  S1  |[05525. IOIOI](https://www.acmicpc.net/problem/5525)||
