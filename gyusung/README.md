@@ -40,4 +40,5 @@
 |6주차| 02.24 | (https://www.acmicpc.net/problem/9935)                                                                   | 문자열 폭탄           |
 |     | 02.25 | (https://www.acmicpc.net/problem/16236)                                                                   | 아기 상어           |
 |     | 02.26 | (https://www.acmicpc.net/problem/16234)                                                                   | 인구 이동           |
+|     | 02.27 | (https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LtJYKDzsDFAXc)           | 정사각형 방          |
 
