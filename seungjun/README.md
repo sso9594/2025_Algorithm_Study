@@ -43,3 +43,4 @@
 |       | 02/25 |BOJ|  G5  |[20055. 컨베이어벨트 위의 로봇](https://www.acmicpc.net/problem/20055)||
 |       | 02/26 |BOJ|  S3  |[01448. 삼각형 만들기](https://www.acmicpc.net/problem/1448)||
 |       | 02/27 |BOJ|  S1  |[05525. IOIOI](https://www.acmicpc.net/problem/5525)||
+| 7주차  | 02/28 |BOJ|  G5  |[10226. 적록색약](https://www.acmicpc.net/problem/10026)||
