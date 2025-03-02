@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Queue;
 import java.util.Scanner;
 
-class Main{
+class Sol2606{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
