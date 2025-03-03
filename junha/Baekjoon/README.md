@@ -36,7 +36,10 @@
 2025.02.21(금) - [Baekjoon-1446]: 지름길(S1) - https://www.acmicpc.net/problem/1446    
 2025.02.23(일) - [Baekjoon-16234]: 인구 이동(G4) - https://www.acmicpc.net/problem/16234     
 2025.02.24(월) - [Baekjoon-1309]: 동물원(S1) - https://www.acmicpc.net/problem/1309     
-2025.02.26(수) - [Baekjoon-11000]: 강의실 배정(G5) - https://www.acmicpc.net/problem/11000     
+2025.02.26(수) - [Baekjoon-11000]: 강의실 배정(G5) - https://www.acmicpc.net/problem/11000   
+2025.02.28(금) - [Baekjoon-9663]: N-Queen(G4) - https://www.acmicpc.net/problem/9663     
+2025.03.01(토) - [Baekjoon-3190]: 뱀(G4) - https://www.acmicpc.net/problem/3190                  
+2025.03.03(월) - [Baekjoon-17144]: 미세먼지 안녕!(G4) - (https://www.acmicpc.net/problem/17144)     
 
 
 
