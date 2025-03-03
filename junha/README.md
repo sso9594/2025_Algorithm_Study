@@ -54,7 +54,7 @@
 |     | 2025.02.27(목)✅   | [SWEA-1861](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LtJYKDzsDFAXc)          | 정사각형 방(D4)          | 과제                 |
 |     | 2025.02.28(금)✅   | [Baekjoon-9663](https://www.acmicpc.net/problem/9663)                                                               | N-Queen(G4)         |                    |
 |     | 2025.03.01(토)    | [Baekjoon-3190](https://www.acmicpc.net/problem/3190)                                                               | 뱀(G4)               | 공통문제               |
-|     | 2025.03.03(월)✅   | [Baekjoon-17144](https://www.acmicpc.net/problem/17144)                                                             | 미세먼지 안녕!(G4)        |                  |
+| 7주차 | 2025.03.03(월)✅   | [Baekjoon-17144](https://www.acmicpc.net/problem/17144)                                                             | 미세먼지 안녕!(G4)        |                  |
 
 
 * 당일 06:00 ~ 익일 06:00까지 당일로 침 
