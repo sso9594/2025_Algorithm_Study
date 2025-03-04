@@ -40,6 +40,7 @@
 2025.02.28(금) - [Baekjoon-9663]: N-Queen(G4) - https://www.acmicpc.net/problem/9663     
 2025.03.01(토) - [Baekjoon-3190]: 뱀(G4) - https://www.acmicpc.net/problem/3190                  
 2025.03.03(월) - [Baekjoon-17144]: 미세먼지 안녕!(G4) - (https://www.acmicpc.net/problem/17144)     
+2025.03.04(화) - [Baekjoon-1025]: 제곱수 찾기(G5) - (https://www.acmicpc.net/problem/1025)     
 
 
 

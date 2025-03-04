@@ -55,7 +55,7 @@
 |     | 2025.02.28(금)✅   | [Baekjoon-9663](https://www.acmicpc.net/problem/9663)                                                               | N-Queen(G4)         |                    |
 |     | 2025.03.01(토)    | [Baekjoon-3190](https://www.acmicpc.net/problem/3190)                                                               | 뱀(G4)               | 공통문제               |
 | 7주차 | 2025.03.03(월)✅   | [Baekjoon-17144](https://www.acmicpc.net/problem/17144)                                                             | 미세먼지 안녕!(G4)        |                  |
-
+|     | 2025.03.04(화)✅   | [Baekjoon-1025](https://www.acmicpc.net/problem/1025)                                                               | 제곱수 찾기(G5)        |                  |
 
 * 당일 06:00 ~ 익일 06:00까지 당일로 침 
   * ex) 2025.01.21(화) 04:00에 풀었으면, 2025.01.20(월)로 날짜 작성
