@@ -46,3 +46,4 @@
 | 7주차  | 02/28 |BOJ|  G5  |[10226. 적록색약](https://www.acmicpc.net/problem/10026)||
 |       | 03/03 |BOJ|  G4  |[03190. 뱀](https://www.acmicpc.net/problem/3190)||
 |       | 03/04 |BOJ|  S3  |[01966. 프린터 큐](https://www.acmicpc.net/problem/1966)|기한 초과|
+|       | 03/04 |BOJ|  S1  |[14940. 쉬운 최단거리](https://www.acmicpc.net/problem/14940)||
