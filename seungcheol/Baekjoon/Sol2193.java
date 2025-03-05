@@ -1,7 +1,6 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
-class Main{
+class Sol2193{
     public static void Sol2193(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt(); 
