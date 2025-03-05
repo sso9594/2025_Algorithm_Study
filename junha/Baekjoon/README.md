@@ -41,6 +41,5 @@
 2025.03.01(토) - [Baekjoon-3190]: 뱀(G4) - https://www.acmicpc.net/problem/3190                  
 2025.03.03(월) - [Baekjoon-17144]: 미세먼지 안녕!(G4) - (https://www.acmicpc.net/problem/17144)     
 2025.03.04(화) - [Baekjoon-1025]: 제곱수 찾기(G5) - (https://www.acmicpc.net/problem/1025)     
-
-
-
+2025.03.05(수) - [Baekjoon-14502]: 연구소(G4)  - (https://www.acmicpc.net/problem/14502)      
+2025.03.05(수) - [Baekjoon-1074]: Z(G4) - (https://www.acmicpc.net/problem/1074)      
